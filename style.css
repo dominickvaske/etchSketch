@@ -1,9 +1,14 @@
+body {
+	background-color: aquamarine;
+}
+
 .container {
 	display: flex;
 	flex-direction: column;
 	width: 600px;
 	height: 600px;
 	border: 2px solid black;
+	background-color: white;
 }
 
 .rowDiv {
