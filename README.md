@@ -3,7 +3,7 @@
 A browser-based Etch-a-Sketch made with vanilla HTML/CSS/JavaScript. Draw by hovering over a grid of squares, clear the board, and resize the grid based on user input (up to 100×100).
 
 ## Live Demo
-- GitHub Pages:
+- GitHub Pages: https://dominickvaske.github.io/etchSketch/
 
 ## Features
 - Default 16×16 grid generated dynamically with JavaScript
