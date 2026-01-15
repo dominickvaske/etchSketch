@@ -1,0 +1,18 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	width: 600px;
+	height: 600px;
+	border: 2px solid black;
+}
+
+.rowDiv {
+	display: flex;
+	flex: 1;
+}
+
+.gridBox {
+	/* background-color: aquamarine; */
+	border: 2px solid black;
+	flex: 1;
+}
