@@ -23,8 +23,3 @@ A browser-based Etch-a-Sketch made with vanilla HTML/CSS/JavaScript. Draw by hov
 - Event delegation for hover interactions
 - Re-rendering UI cleanly (rebuilding the grid on demand)
 - Basic input validation for prompt-based user input
-
-## How to Run Locally
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
